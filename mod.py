@@ -1,8 +1,8 @@
-s = 'compters are useless. They can only give you ansewers.'
+s = 'If Comrade Napoleon says it, it must be right'
 a = [100, 200, 300]
 
- def printy(arg):
+ def foo(arg):
          print(f'arg = {arg}')
 
-class Classy:
+class Foo:
     pass            
