@@ -1,3 +1,3 @@
-import <sys_mod>
+import sys
 print(sys.path)
 
